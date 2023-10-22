@@ -17,7 +17,7 @@ Sample Implementation of Control Algorithms for Self-Driving Car
 
 ## 🚀 1. PID Controller
 ### Interactive PID DEMO (Streamlit)
-<img alt="streamlit interactive PID demo" width=1000 src="https://github.com/thakorneyp11/self-driving-car/assets/58812639/594857ca-4861-4474-afa5-005d79260ed6" />
+<img alt="streamlit interactive PID demo" width=1000 src="https://github.com/thakorneyp11/self-driving-car/assets/58812639/5fb3972e-a970-46c0-9f78-8074b4616181" />
 
 <details>
 <summary>How to setup and run</summary>
@@ -57,10 +57,8 @@ access `http://localhost:8501/`
 | - | - | - |
 | 1. Udacity Self-Driving car simulation | - | [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) | 
 | 2. Custom `CarRacing-v0` Gym environment | - | [openai/gym]() |
-| 3. Dynamic environment for PID and ESC demo | - | [simulations/car_simulation.py]() |
+| 3. Dynamic environment for PID and ESC demo | - | [simulations/car_simulation.py](https://github.com/thakorneyp11/self-driving-car/blob/master/simulations/car_simulation.py) |
 
 
 ## ⚙️ Setting up the Environment
 - Coming Soon
-
-<!-- <img alt="PID demo in PyGame environment" width=1000 src="https://github.com/thakorneyp11/self-driving-car/assets/58812639/11bdec72-e977-40b7-a374-70dae3cf3f5a" /> -->
